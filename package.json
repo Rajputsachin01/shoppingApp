@@ -2,7 +2,10 @@
   "name": "shoppingapp",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://Rajputsachin01.github.io/shoppingApp",
+=======
+>>>>>>> af15c3b427dc52ade1cc0481e9b5bb0ad47f4aaf
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -24,9 +27,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> af15c3b427dc52ade1cc0481e9b5bb0ad47f4aaf
   },
   "eslintConfig": {
     "extends": [
@@ -45,8 +52,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
+=======
+>>>>>>> af15c3b427dc52ade1cc0481e9b5bb0ad47f4aaf
   }
 }
